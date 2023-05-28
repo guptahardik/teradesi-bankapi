@@ -1,20 +1,19 @@
-#Go Application with Docker Compose
+Go Application with Docker Compose
 This is a Go application that simulates a simple banking system with features like creating an account, depositing funds, withdrawing funds, and checking account details. It exposes a RESTful API for communication.
 
-##Prerequisites
+Prerequisites
 Docker: Ensure that Docker is installed on your system.
 
-###1. Getting Started
+1. Getting Started
 Clone the repository:
 git clone <repository_url>
 
-###2. Navigate to the project directory:
+2. Navigate to the project directory:
 
 Use code with caution. Learn more
 content_copy
-cd go-banking-app
 
-###3. Build the Docker image and run the application using Docker Compose:
+3. Build the Docker image and run the application using Docker Compose:
 
 Use code with caution. Learn more
 content_copy
