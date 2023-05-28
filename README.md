@@ -10,13 +10,11 @@ git clone <repository_url>
 
 2. Navigate to the project directory:
 
-Use code with caution. Learn more
-content_copy
+
 
 3. Build the Docker image and run the application using Docker Compose:
 
-Use code with caution. Learn more
-content_copy
+
 docker-compose up
 
 This command will build the Docker image for the application and start the containers.
